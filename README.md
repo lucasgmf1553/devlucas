@@ -1,3 +1,3 @@
 ### Ola! Eu sou o Lucas Gomes😉
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([tel](https://t.me/+5515988110928)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
